@@ -1,13 +1,14 @@
 # Python Fundamentals
 
-
-####################################################################
 How to run python code
 
+###############################################################
+
 Install Python from https://www.python.org/downloads/
+
 Install IDE pycharm: https://www.jetbrains.com/pycharm/download/#section=mac
 
-####################################################################
+###############################################################
 
 
 Topics covered
